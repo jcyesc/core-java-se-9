@@ -6,6 +6,7 @@ Core Java SE 9 for the Impatient
 2nd Edition
 Cay S. Horstmann
 
+and more.
 
 ## Contents
 
@@ -24,4 +25,5 @@ Cay S. Horstmann
 13. Internationalization
 14. Compiling and Scripting
 15. The Java Platform module system
+i6. Java Native Interface
 
