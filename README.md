@@ -25,5 +25,5 @@ and more.
 13. Internationalization
 14. Compiling and Scripting
 15. The Java Platform module system
-i6. Java Native Interface
+16. Java Native Interface
 
